@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning MERN stack, Blockchain, Web 3.0
-- 👯 I’m looking to collaborate on opensource blockchain-based projects
-- 🤔 I’m looking for help with developing opensource blockchain projects
-- 💬 Ask me about MERN-stack, GraphQL, Blockchain, Bitcoin and smart-contracts
-- 📫 How to reach me: tlgrm @mjtb_kh / mojtabakh[at]hotmail.com
+- 🌱 I’m working on MERN-stack applications, Blockchain, Web 3.0
+- 👯 Willing to collaborate on open-source blockchain-based projects
+- 🤔 Learning ZKSTARKs, ZKSNARKs and ZK-scaling solutions for blockchain
+- 🔨 Experienced in Solidity smart-contracts, OpenZeppelin, Truffle, Hardhat
+- 📫 How to reach me:  t.me/@mjtb_kh / mojtabakh[at]hotmail.com
 - ⚡ Fun fact: JavaScript is both interpreted & compiled by V8 engine!
-- Anything else?
